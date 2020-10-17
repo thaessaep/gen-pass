@@ -2,5 +2,6 @@
 *.jar
 *.war
 *.ear
+*.class
 
 /view
